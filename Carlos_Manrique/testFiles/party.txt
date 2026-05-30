@@ -1,0 +1,3 @@
+code1@Drink@name1@description1@1.0@1.0
+code2@Drink@name2@description2@2.0@2.0
+code3@Drink@name3@description3@3.0@3.0

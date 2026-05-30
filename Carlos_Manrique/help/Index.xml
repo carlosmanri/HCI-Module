@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1'  ?>
+<!DOCTYPE index
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+	<indexitem text="description of the Party Manager" target="introduction" />	
+	<indexitem text="Log in" target="login" />	
+	<indexitem text="Creating your party">	
+		<indexitem text="Hiring" target="hiring" />	
+		<indexitem text="Your shopping cart" target="shoppingCart" />	
+		<indexitem text="Confirmating your order" target="orderConfirmation" />	
+	</indexitem>
+
+
+
+</index>

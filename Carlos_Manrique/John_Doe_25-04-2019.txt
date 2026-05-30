@@ -1,0 +1,28 @@
+PARTY BILL
+--------------
+** CUSTOMER: John Doe (REGISTERED CUSTOMER: admin)
+** NIF: 11223344A
+** PARTY DATE AND TIME: Thu Apr 25 00:00:00 CEST 2019
+** NUMBER OF ATTENDANTS: 29
+
+PRODUCTS: NAME / CODE / UNITS / TOTAL PRODUCT
+---------------------------------------------------------------------
+Drinks:
+* Soft Drinks / BE002 / 3 / 4.5 €
+* Beer / BE001 / 6 / 102.0 €
+Food:
+* Snaks / CO005 / 21 / 31.5 €
+* Chocolate cacke / CO006 / 4 / 8.0 €
+* Swrimps orly / CO003 / 5 / 15.0 €
+Decoration:
+* Haloween / DE002 / 1 / 240.0 €
+Places:
+* Bar / LO001 / 1 / 750.0 €
+Others:
+* Disc-jockey / OT001 / 1 / 600.0 €
+
+COMMENTS:
+-------------
+
+
+TOTAL BILL WITH CUSTOMER DISCCOUNT: 1751.0 - 223.2525 = 1488.35 €

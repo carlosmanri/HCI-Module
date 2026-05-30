@@ -1,0 +1,9 @@
+1234@Drink@name1@description1@1.0@-1.0
+code2@Drink@name2@description2@asdf@2.0
+code3@invalidOne@name3@description3@3.0@3.0
+code1@@name1@description1@1.0@1.0
+code2@Drink@name2;description2@2.0@2.0
+code3@Drink@name3@description3
+
+code2@Drink@@@@@@description2@2.0@2.0
+code3@Drink@name3@description3@3.0@3.0

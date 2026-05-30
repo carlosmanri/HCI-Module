@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+
+	<tocitem text="Party Manager" target="introduction" />
+	<tocitem text="Creating your party"  >
+		<tocitem text="Hiring products" target="hiring" />
+		<tocitem text="Using your shopping cart" target="shoppingCart" />
+		<tocitem text="Confirmating your order" target="orderConfirmation" />
+	</tocitem>
+	<tocitem text="Log in with your account" target="login" />
+
+
+</toc>

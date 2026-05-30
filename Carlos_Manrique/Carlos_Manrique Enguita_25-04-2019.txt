@@ -1,0 +1,24 @@
+PARTY BILL
+--------------
+** CUSTOMER: Carlos Manrique Enguita (REGISTERED CUSTOMER: carlos)
+** NIF: 11223344A
+** PARTY DATE AND TIME: Thu Apr 25 00:00:00 CEST 2019
+** NUMBER OF ATTENDANTS: 7
+
+PRODUCTS: NAME / CODE / UNITS / TOTAL PRODUCT
+---------------------------------------------------------------------
+Drinks:
+* Beer / BE001 / 4 / 68.0 €
+Food:
+* Prawn kebab / CO001 / 3 / 6.0 €
+* Canapés combination / CO002 / 1 / 2.5 €
+Decoration:
+* Disco / DE001 / 1 / 100.0 €
+Places:
+* Bar / LO001 / 1 / 250.0 €
+
+COMMENTS:
+-------------
+"Comentario sobre el pedido"
+
+TOTAL BILL WITH CUSTOMER DISCCOUNT: 426.5 - 54.37875 = 362.525 €
